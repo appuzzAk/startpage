@@ -1,0 +1,54 @@
+General
+
+Create sprite sheets
+https://draeton.github.io/stitches/
+
+
+Typescript/JS tutorials and reference
+
+Intersection types
+// https://www.typescriptlang.org/docs/handbook/advanced-types.html#intersection-types
+
+Interface vs Class
+// https://stackoverflow.com/questions/50110844/what-is-the-difference-between-interface-and-abstract-class-in-typescript
+
+Typed function parameters
+// https://stackoverflow.com/questions/14638990/are-strongly-typed-functions-as-parameters-possible-in-typescript
+
+Modules
+// https://www.typescriptlang.org/docs/handbook/modules.html
+// https://stackoverflow.com/questions/40267190/typescript-2-0-how-can-i-reference-objects-in-the-same-namespace-but-in-a-sub-f/43023392#43023392
+
+Module exporting
+// https://stackoverflow.com/questions/43042889/typescript-referenceerror-exports-is-not-defined
+// https://stackoverflow.com/questions/19059580/client-on-node-uncaught-referenceerror-require-is-not-defined
+
+Module vs Target compilation
+// https://stackoverflow.com/questions/41993811/understanding-target-and-module-in-tsconfig
+
+Component based architecture
+// https://www.html5gamedevs.com/topic/31386-component-based-architecture-in-typescript/?do=findComment&comment=180372
+
+Constructor type signature
+// https://dev.to/krumpet/generic-type-guard-in-typescript-258l
+
+
+CreateJS tutorials and reference
+
+SpriteSheet
+// https://www.createjs.com/docs/easeljs/classes/SpriteSheet.html
+
+
+GitIgnore
+
+Configuration
+// https://git-scm.com/docs/gitignore
+
+
+ESLint
+
+Configuration
+// https://eslint.org/docs/user-guide/configuring
+// https://eslint.org/docs/user-guide/command-line-interface
+// https://www.wisdomgeek.com/development/web-development/how-to-setup-eslint-for-typescript-code/
+
